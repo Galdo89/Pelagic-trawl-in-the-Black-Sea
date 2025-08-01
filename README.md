@@ -1,4 +1,4 @@
-﻿<img align="left" width="500" src="readme_imgs/vrai_logo_.jpg" style="margin-right:-230px"></br></br></br></br>
+﻿<img align="left" width="500" src="vrai_logo_.jpg" style="margin-right:-230px"></br></br></br></br>
 <h1> Characterizing pelagic trawl partnerships using coordination metrics and behavior classification in the Black Sea</h1></br>
 
 ## Overview
