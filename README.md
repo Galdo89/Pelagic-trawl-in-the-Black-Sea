@@ -10,7 +10,7 @@ Two complementary R scripts are provided for identifying candidate dyads based o
 
 
 <div style="text-align: center;">
-    <img src="GA1.jpeg?raw=true" alt="Graphical Abstract" width="850" height="400" style="display: block; margin: center;"/>
+    <img src="GA1.jpeg?raw=true" alt="Graphical Abstract" width="850" height="400" style="display: block; margin: 0 auto;"/>
 </div>
 
 
