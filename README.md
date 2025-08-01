@@ -4,7 +4,7 @@
 ## Overview
 
 This repository contains supplementary code and documentation for the study:
-Title: **"Dyadic behavior and coordination in pelagic pair trawling operations: A data-driven AIS approach in the Black Sea"**
+Title: **"Characterizing pelagic trawl partnerships using coordination metrics and behavior classification in the Black Sea"**
 The study investigates cooperative behavior among pelagic trawlers using AIS data. 
 Two complementary R scripts are provided for identifying candidate dyads based on vessel proximity, course, displacement, and speed metrics.
 
@@ -81,7 +81,7 @@ result_dyads <- identify_dyads_timestamp_based(ais_data)
 If you use this repository or the scripts code in your research, please cite our work as follows:
 
 Taner Yıldız1, Nurdan Cömert, Adriano Mancini, Alessandro Galdelli, Anna Nora Tasetti 
-"Dyadic behavior and coordination in pelagic pair trawling operations: A data-driven AIS approach in the Black Sea",
+"Characterizing pelagic trawl partnerships using coordination metrics and behavior classification in the Black Sea",
 2025
 
 
