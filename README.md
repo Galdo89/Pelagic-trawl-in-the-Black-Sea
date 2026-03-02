@@ -80,7 +80,7 @@ result_dyads <- identify_dyads_timestamp_based(ais_data)
 
 If you use this repository or the scripts code in your research, please cite our work as follows:
 
-Taner Yıldız1, Nurdan Cömert, Adriano Mancini, Alessandro Galdelli, Anna Nora Tasetti 
+Taner Yıldız1, Nurdan Cömert, Adriano Mancini, Alessandro Galdelli, Anna Nora Tassetti 
 "Characterizing pelagic trawl partnerships using coordination metrics and behavior classification in the Black Sea",
 2025
 
