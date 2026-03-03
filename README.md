@@ -80,7 +80,8 @@ result_dyads <- identify_dyads_timestamp_based(ais_data)
 
 If you use this repository or the scripts code in your research, please cite our work as follows:
 
-@article{YILDIZ2025103501,
+```
+@article{YILDIZ2025,
 title = {Characterizing pelagic pair trawl partnerships using coordination metrics and behavior classification in the Black Sea},
 journal = {Ecological Informatics},
 volume = {92},
